@@ -1,3 +1,5 @@
 This is my new file.
 
 This is my line 2.
+
+additions in branch.
